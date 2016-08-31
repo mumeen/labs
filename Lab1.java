@@ -17,7 +17,7 @@ public class Lab1 {
 		
 		int width = scanner.nextInt();	
 		
-		System.out.println("Enter height:");
+		System.out.println("Enter height:"); 
 		
 		int height = scanner.nextInt();
 		
