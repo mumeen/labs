@@ -1,0 +1,12 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+p.intro {
+	font-style: italic;
+	text-align: center;
+	border: 1px solid black;
+	border-bottom: 5px dashed steelblue;
+	border-radius: 5px;
+}
